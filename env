@@ -1,0 +1,4 @@
+VITE_SUPABASE_URL=https://ykvivlfnndexkwkcxrmz.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inlrdml2bGZubmRleGt3a2N4cm16Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYxNTYzMzIsImV4cCI6MjA4MTczMjMzMn0.hcPdyBo311YEk4_OX0uH8VQx1GbLpNyNiiz8sbSY358
+VITE_IPTV_API_URL=https://iptv-org.github.io/api/channels.json
+VITE_APP_NAME=Global IPTV
