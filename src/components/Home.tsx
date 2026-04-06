@@ -85,7 +85,7 @@ export default function Home() {
             
             <h1 className="text-6xl md:text-8xl font-bold text-white mb-6 animate-fadeIn">
               <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-                IPTV Hub
+                VERTEX.TV Hub
               </span>
             </h1>
             
@@ -150,7 +150,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-              Why Choose <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">IPTV Hub?</span>
+              Why Choose <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">VERTEX.TV Hub?</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
               Experience the future of television with our cutting-edge streaming platform
